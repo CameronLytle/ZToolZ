@@ -1,0 +1,9 @@
+.quote {
+    font: 400 72px "Unlock", Helvetica, sans-serif;
+    color: darkred;
+    text-align: center;
+}
+
+.post-title {
+    color: darkred;
+}
